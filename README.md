@@ -3,3 +3,8 @@ Day 1:
 * Selection Sort
 * Insertion Sort
 * Binary Search
+
+Day 2:
+* GCD
+* Prime Number
+* Armstrong Number
