@@ -8,3 +8,8 @@ Day 2:
 * GCD
 * Prime Number
 * Armstrong Number
+
+Day 3:
+* Second Largest Element
+* Array Sorted Or Not
+* Remove Duplicate
