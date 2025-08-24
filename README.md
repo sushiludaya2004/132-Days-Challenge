@@ -13,3 +13,10 @@ Day 3:
 * Second Largest Element
 * Array Sorted Or Not
 * Remove Duplicate
+
+Day 4:
+* Move Zeros
+* Consecutive One's
+* Left Rotate
+* Missing Number
+* Rotate by K
