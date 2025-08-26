@@ -21,8 +21,10 @@ Day 4:
 * Missing Number
 * Rotate by K
 
-  Day 5:
-  * Cyclic Sort
-  * Single unique number
-  * Missing number(using cyclic sort)
-  
+Day 5:
+* Cyclic Sort
+* Single unique number
+* Missing number(using cyclic sort)
+
+Day 6:
+* Two sum
