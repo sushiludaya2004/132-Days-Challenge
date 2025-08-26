@@ -28,3 +28,4 @@ Day 5:
 
 Day 6:
 * Two sum
+* Sort 0 1 2 (3 variable count method)
