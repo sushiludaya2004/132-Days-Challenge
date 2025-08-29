@@ -36,3 +36,6 @@ Day 7:
 
 Day 8:
 * RearrangeElement
+
+Day 9:
+* Longest Consecutive Sequence
